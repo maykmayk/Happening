@@ -1,10 +1,10 @@
 @font-face {
     font-family: "SfProReg";
-    src: url("/asset/fonts/NeuePlak-Regular.ttf");
+    src: url("./asset/fonts/NeuePlak-Regular.ttf");
 }
 @font-face {
     font-family: "SfProBold";
-    src: url("/asset/fonts/NeuePlak-Bold.ttf");
+    src: url("./asset/fonts/NeuePlak-Bold.ttf");
 }
 
 .noScroll{
